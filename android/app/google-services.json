@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454530283089",
+    "firebase_url": "https://my-project-1555305719675-default-rtdb.firebaseio.com",
+    "project_id": "my-project-1555305719675",
+    "storage_bucket": "my-project-1555305719675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454530283089:android:0c122579ba1c5f65d06a70",
+        "android_client_info": {
+          "package_name": "com.pankaj_dice_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454530283089-pgfc3eqpqsnlgkrcrv0ci49rq4mgf2v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvrOb9NLrt_ffsoDgGpVmbF9kRIEp_1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454530283089-pgfc3eqpqsnlgkrcrv0ci49rq4mgf2v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454530283089-ki30up5006957qplp97tr100qrlil7e1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ccom.pankajdicegame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
